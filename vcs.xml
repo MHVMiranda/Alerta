@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/HeneKyanne/HelloWord.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/ponto-eletronico/mobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Daniel\Documents" />
+    <option name="cloneParentDir" value="C:\Users\Daniel\Desktop\POLO" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\Daniel\Documents\Calculadoras_Mateus" />
